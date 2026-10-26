@@ -65,13 +65,13 @@ Although this project fulfilled its original coursework purpose, looking at it w
 2. Place the project folder inside XAMPP's `htdocs` directory.
 3. Start Apache and MySQL from the XAMPP Control Panel.
 4. Open `http://localhost/phpmyadmin`.
-5. Create the database required by the project and import the provided SQL file.
+5. Create the database required by the project and import the provided SQL file 'uni.sql'.
 6. Check the database connection settings in the PHP files.
 7. Open the application in your browser.
 
 ## Screenshots and Demo
 
-https://github.com/user-attachments/assets/79e10772-6bb0-4a4f-9bbb-f535667eae07
+<img src="Media/image_of_project.png" alt="University Landing Page" width="1000">
 
 https://github.com/user-attachments/assets/798ac4e9-528f-4dca-b4b9-a255b74afd4f
 
