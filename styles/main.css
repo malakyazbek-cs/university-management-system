@@ -1,0 +1,55 @@
+body
+{
+    background-image: url('../bgs/bg.jpg');
+    background-size: cover ;
+    background-position: center;
+    background-repeat: no-repeat ;
+}
+#big 
+{
+    width: 100% ;
+    height: 180px ;
+    background-color: rgb( 170, 219, 236, 0.9 ) ;
+}
+#title
+{
+    float: left ;
+    width: 650px ;
+    height : fit-content ;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    font-size: 45px ; 
+    padding-left: 5% ;
+    margin-top: 4.8% ;
+}
+#header
+{
+    float: right ;
+    width: 790px ;
+    height: 280px ;
+    margin-top: 0% ;
+}
+ul
+{
+    display: flex ;
+    list-style: none ;
+}
+li
+{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    margin-top: 16% ;
+    margin-right: 6.1% ;
+    padding: 0%;
+    text-align: center;
+}
+a   
+{     
+    text-decoration: none; color: black ; 
+}
+hr 
+{
+    width: 45px ;
+    height: 2px ;
+    background-color: black ;
+    border: none ;
+}
