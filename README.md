@@ -71,7 +71,10 @@ Although this project fulfilled its original coursework purpose, looking at it w
 
 ## Screenshots and Demo
 
+https://github.com/user-attachments/assets/79e10772-6bb0-4a4f-9bbb-f535667eae07
+
 https://github.com/user-attachments/assets/798ac4e9-528f-4dca-b4b9-a255b74afd4f
+
 ## Conclusion
 
 This project represents an early step in my web development journey. While its functionality is simple compared with what I can build today, it gave me practical experience applying PHP and MySQL concepts independently. Revisiting it also helps me recognize how my understanding of software development has grown since I first wrote it.
